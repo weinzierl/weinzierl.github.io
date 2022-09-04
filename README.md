@@ -8,4 +8,3 @@ Personal Website of Ludwig Weinzierl
 
 <div style="color:blue;">Tag Test</div>
 
-![Testbild](https://live.staticflickr.com/65535/52333182813_3d91e30825_b.jpg)
